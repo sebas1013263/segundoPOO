@@ -9,7 +9,7 @@ public class ContadordePalabras {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Ingrese el texto");
+        System.out.println("Ingrese el texto: ");
         String texto = sc.nextLine();
 
         String[] palabras = texto.toLowerCase().split("\\s+");

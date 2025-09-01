@@ -5,6 +5,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 
 public class Metodos {
+
     private LinkedList<Calificaciones> calificaciones;
 
     public Metodos() {
